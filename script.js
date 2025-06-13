@@ -205,7 +205,7 @@ searchInput.addEventListener("input", () => {
     }
 });
 
-fetch("https://restcountries.com/v3.1/all")
+fetch("https://restcountries.com/v3.1/all?fields=name,capital,flags")
     .then((response) => {
         return response.json();
     }).then(countries => {
