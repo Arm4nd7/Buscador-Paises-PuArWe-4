@@ -5,7 +5,7 @@
 
 En este proyecto puedes buscar paises mediante su nombre o sus propiedades, esto es gracias al uso de APIs, la página contiene apartado para mostrar a primera vista todos los paises con su nombre oficial, bandera, región y cantidad de habitantes ademas de un simple filtro de seleccion.
 
-###  [👀 Miralo aquí](https://pucetec-dw.github.io/laboratorio-2-Arm4nd7/)
+###  [👀 Miralo aquí](https://arm4nd7.github.io/Buscador-Paises-PuArWe-4/)
 
 ##  Partida 🚀
 En este proyecto puedes encontar:
